@@ -15,14 +15,19 @@
 			<nav>
 				<ul class="container">
 					<li>
-						<a></a>
+						<a href="index.html">Startsida</a>
+					</li>
+					<li>
+						<a href="linje.html">måleri</a>
 					</li>
 				</ul>
 			</nav>
 		</header>
-		<p>Hej jag heter Melina och går kungsmad måleri. Jag tycker måleri är kul och lärorikt, dock är det kanske jag nte vill bli målare eller jobba inom måleri i framtiden. Men det kan vara kul att ha med sig under åren.</p>
-		<p>Jag har inga speciella intressen, jag hänger oftas med vänner på fritden och tar det lugnt för det mesta.</p>
-		<img src ="nedladdning.jfif" alt="En vägg med målarfärg och färgburkar">
+		<main>
+			<p>Hej jag heter Melina och bor i alvesta.</p>
+			<p>Jag har inga speciella intressen, jag hänger oftas med vänner på fritden och tar det lugnt för det mesta.</p>
+			<img src ="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mynewsdesk.com%2Fse%2Fartvise-ab%2Fpressreleases%2Falvesta-kommun-har-valt-artvise-e-tjaenst-2386822&psig=AOvVaw1pnJMIXXejLJp3FukOir-a&ust=1604395570838000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODaw7TF4-wCFQAAAAAdAAAAABAD" alt="">
+		</main>
 		<footer>
 		<p>Melina Vajraca BA18D</p>
 		</footer>
